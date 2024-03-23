@@ -15,7 +15,7 @@
 
 <h3 align="left">Professional Experience:</h3>
 <ul>
-  <li><b>Internship at the Geographic Information Unit of the Montevideo City Council since March 2023.</b> Some of my tasks include fixing bugs in existing applications, working with database tables, and most importantly, reengineering Montevimap, which is a page used by many people in Montevideo, to make it more efficient, user-friendly, and responsive. </li>
+  <li><b>Internship at the Geographic Information Unit of the Montevideo City Council since June 2023.</b> Some of my tasks include fixing bugs in existing applications, working with database tables, and most importantly, reengineering Montevimap, which is a page used by many people in Montevideo, to make it more efficient, user-friendly, and responsive. </li>
 </ul>
 
 
