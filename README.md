@@ -16,7 +16,8 @@
 <h3 align="left">Professional Experience:</h3>
 <ul>
   <li><b>Internship at the Geographic Information Unit of the Montevideo City Council: June 2023 - June 2024.</b> Some of my tasks include fixing bugs in existing applications, working with database tables, and most importantly, reengineering Montevimap, which is a page used by many people in Montevideo, to make it more efficient, user-friendly, and responsive. </li>
-  <li><b>Brokerware: July 2024 - March 2025.</b>Junior Software Developer, I developed and maintained web solutions for the stock market using GeneXus, React.js, TypeScript, and SQL Server. I focused on implementing features, fixing issues, and optimizing performance.</li>
+  <li><b>Brokerware: July 2024 - March 2025.</b> Junior Software Developer, I developed and maintained web solutions for the stock market using GeneXus, React.js, TypeScript, and SQL Server. I focused on implementing features, fixing issues, and optimizing performance.</li>
+  <li><b>Mimiquate: April 2025 - Present.</b> Junior Software Developer, working with Elixir, Phoenix Framework, and LiveView to build applications. 
 </ul>
 
 
