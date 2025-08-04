@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering student</h3>
 
 <p align="center">
-  In my fourth year of computer engineering, currently studying React.
+  In my fourth year of computer engineering, currently studying Elixir.
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
